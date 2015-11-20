@@ -25,8 +25,6 @@ namespace AdGrafik\AdxScss;
  *  This copyright notice MUST APPEAR in all copies of the script!
  ***************************************************************/
 
-include __DIR__ . '/../Vendor/leafo/scssphp/scss.inc.php';
-
 use TYPO3\CMS\Core\Utility\GeneralUtility;
 
 class Scss implements \TYPO3\CMS\Core\SingletonInterface {
